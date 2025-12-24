@@ -15,7 +15,8 @@
 
 ## Задание 4
 
-<img width="2528" height="1048" alt="image" src="https://github.com/user-attachments/assets/deaca4ec-71c3-42f4-8269-70242b612418" />
+<img width="2538" height="1148" alt="image" src="https://github.com/user-attachments/assets/a76f72bc-4f00-4ff7-bc97-f1202df8e2ad" />
+
 
 
 
