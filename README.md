@@ -4,7 +4,8 @@
 
 <img width="2549" height="577" alt="image" src="https://github.com/user-attachments/assets/feb66621-6ae4-4870-978c-4b12759dfd80" />
 
-<img width="2555" height="710" alt="image" src="https://github.com/user-attachments/assets/688299df-e36d-48f6-97de-856e02ac7545" />
+<img width="2542" height="564" alt="image" src="https://github.com/user-attachments/assets/f8dc9059-3cd0-4542-9f85-218bcc530d48" />
+
 
 ## Задание 2-3
 
