@@ -2,10 +2,10 @@
 
 ## Задание 1
 
-<img width="2536" height="656" alt="image" src="https://github.com/user-attachments/assets/25f3e10b-f8ab-4ddc-8b38-84d7f541449e" />
+<img width="2547" height="662" alt="image" src="https://github.com/user-attachments/assets/ad598083-a728-42d8-9636-55a46f0e3444" />
 
+<img width="2539" height="718" alt="image" src="https://github.com/user-attachments/assets/1ff4a295-2be8-4cde-8d69-b9cdda6ab3f7" />
 
-<img width="2542" height="564" alt="image" src="https://github.com/user-attachments/assets/f8dc9059-3cd0-4542-9f85-218bcc530d48" />
 
 
 ## Задание 2-3
